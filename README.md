@@ -52,7 +52,7 @@ References
 
 Make sure to document what you added on top of the existing work, especially if you work with a previous project. What is it that YOU added?>
 
-1. used morsecode.v from CSCB58 Lab 4 as the base template but kept only the RateDivider portion in the end and changed everything else with our own code
+1. used morsecode.v from CSCB58 Lab 4 as the base template but kept only the RateDivider portion in the end and replaced everything else with our own code
 2. used top module from flasher.v from CSCB58 Lab 4 to help get different speeds
-3. hex_display from CSCB58 Lab 3
+3. used hex_display from CSCB58 Lab 3
 4. randomizer from: https://www.cnblogs.com/BitArt/archive/2012/12/22/2827005.html 
