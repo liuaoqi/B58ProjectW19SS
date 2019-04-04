@@ -1,4 +1,4 @@
-# B58ProjectW19SS
+# SimonSaysProject
 
 Project Plan
 --------
